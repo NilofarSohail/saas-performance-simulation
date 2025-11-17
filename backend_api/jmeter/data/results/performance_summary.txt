@@ -1,0 +1,15 @@
+=== PERFORMANCE SUMMARY ===
+Total Requests: 750
+Success Rate (%): 98.27
+Average Response Time (ms): 193.11
+Median Response Time (ms): 182.5
+P90 Response Time (ms): 309.0
+P95 Response Time (ms): 355.0
+P99 Response Time (ms): 394.0
+
+=== BREAKDOWN BY ENDPOINT (label) ===
+             count     mean  median  max  min
+label                                        
+CreateOrder    250  239.436   239.0  407    1
+Dashboard      250  207.652   208.0  306  108
+Login          250  132.244   131.0  226   57

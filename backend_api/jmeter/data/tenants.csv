@@ -1,0 +1,4 @@
+tenant_id,username,password
+tenant_a,alice@example.com,pass123
+tenant_b,bob@example.com,pass456
+tenant_c,carol@example.com,pass789
